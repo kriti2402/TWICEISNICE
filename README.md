@@ -1,0 +1,2 @@
+# TWICEISNICE
+This is a website, that basically showcases the portfolios of the team members, that are, SHRUTI MEHROTRA and MUSKAN KESARWANI. This website has used HTML and CSS for the designing of the web pages. There are total 4 pages, home-page(active-link), Shruti, Muskan, and the Contact-Us page. This portfolio showcase website tells you everything about us, like our Name, Designation, Profile-Picture, Educational-Qualifications, Technical-Skills, Academic Projects, Internships, Trainings, Interests and Achievements.
