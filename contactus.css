@@ -1,0 +1,23 @@
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../bg3.jpg);
+	background-size:cover;
+	background-position:center;	
+	height:130vh;
+}
+.title{
+	position:absolute;
+	margin-top:40px;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+.title h1{
+	color:#ff99e6;
+	font-size:60px;
+}
+*{
+	margin:0;
+	padding:0;
+	font-family:Century Gothic;
+	color:#ff99e6;
+	word-spacing:1px;
+}
